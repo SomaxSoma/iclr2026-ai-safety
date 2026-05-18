@@ -1,0 +1,166 @@
+Downloading PDFs for 595 AI safety papers...
+✓ Adaptive Methods Are Preferable in High Privacy Settings: An
+✓ Aria: an Agent for Retrieval and Iterative Auto-Formalizatio
+✓ Enough is as good as a feast: A Comprehensive Analysis of Ho
+✓ Is On-Policy Data always the Best Choice for Direct Preferen
+✓ SecP-Tuning: Efficient Privacy-Preserving Prompt Tuning for 
+✓ Be Careful When Fine-tuning On Open-Source LLMs: Your Fine-t
+✓ DevOps-Gym: Benchmarking AI Agents in Software DevOps Cycle
+✓ NDAD: Negative-Direction Aware Decoding for Large Language M
+✓ Align to Misalign: Automatic LLM Jailbreak with Meta-Optimiz
+✓ Sparse CLIP: Co-Optimizing Interpretability and Performance 
+✓ Learning to Reason for Hallucination Span Detection
+✓ RedTeamCUA: Realistic Adversarial Testing of Computer-Use Ag
+✓ VLSU: Mapping the Limits of Joint Multimodal Understanding f
+✓ Strategic Obfuscation of Deceptive Reasoning in Language Mod
+✓ Are Deep Speech Denoising Models Robust to Adversarial Noise
+✓ TIMESLIVER : SYMBOLIC-LINEAR DECOMPOSITION FOR EXPLAINABLE T
+✓ ResearchRubrics: A Benchmark of Prompts and Rubrics For Eval
+⏳ 429 on Don't Shift the Trigger: Robust Gradient Ascent fo — backing off 10s
+✓ Don't Shift the Trigger: Robust Gradient Ascent for Backdoor
+✓ OpenEstimate: Evaluating LLMs on Reasoning Under Uncertainty
+✓ Antislop: A Comprehensive Framework for Identifying and Elim
+✓ Cancer-Myth: Evaluating Large Language Models on Patient Que
+✓ Remotely Detectable Robot Policy Watermarking
+✓ Causally Robust Reward Learning from Reason-Augmented Prefer
+✓ What's the plan? Metrics for implicit planning in LLMs and t
+✗ Error: Persona Features Control Emergent Misalignment — HTTPSConnectionPool(host='openreview.net', port=443): Read timed out.
+✓ Feature compression is the root cause of adversarial fragili
+✓ MCPMark: A Benchmark for Stress-Testing Realistic and Compre
+✓ Membership Inference Attacks Against Fine-tuned Diffusion La
+✓ Adaptive Conformal Anomaly Detection with Time Series Founda
+✓ Identifying Robust Neural Pathways: Few-Shot Adversarial Mas
+✓ CERTIFIED VS. EMPIRICAL ADVERSARIAL ROBUSTNESS VIA HYBRID CO
+✓ A Benchmark for Deep Information Synthesis
+✓ Byzantine-Robust Federated Learning with Learnable Aggregati
+✓ Bayesian Robust Cooperative Multi-Agent Reinforcement Learni
+✓ Provably Explaining Neural Additive Models
+✓ Dynamic Multimodal Activation Steering for Hallucination Mit
+✓ WRING Out The Bias: A Rotation-Based Alternative To Projecti
+✓ OptimalThinkingBench: Evaluating Over and Underthinking in L
+✓ From Reproduction to Replication: Evaluating Research Agents
+✓ Efficient and Sharp Off-Policy Learning under Unobserved Con
+✓ VPI-Bench: Visual Prompt Injection Attacks for Computer-Use 
+✓ Noisy but Valid: Robust Statistical Evaluation of LLMs with 
+✓ AdPO: Enhancing the Adversarial Robustness of Large Vision-L
+✓ RobustSpring: Benchmarking Robustness to Image Corruptions f
+✓ Knowledge Distillation as Decontamination? Revisiting the “D
+✓ Enhanced Generative Model Evaluation with Clipped Density an
+✓ DeepResearch Bench: A Comprehensive Benchmark for Deep Resea
+✓ Strict Subgoal Execution: Reliable Long-Horizon Planning in 
+✓ Tracing and Reversing Edits in LLMs
+✓ The Shape of Adversarial Influence: Characterizing LLM Laten
+✓ Truthfulness Despite Weak Supervision: Evaluating and Traini
+✓ NatADiff: Adversarial Boundary Guidance for Natural Adversar
+✓ ASGuard: Activation-Scaling Guard to Mitigate Targeted Jailb
+✓ Robust Deep Reinforcement Learning against Adversarial Behav
+✓ Kimi-Dev: Agentless Training as Skill Prior for SWE-agents
+✓ Gaia2: Benchmarking LLM Agents on Dynamic and  Asynchronous 
+✓ FREAK: A Fine-grained Hallucination Evaluation Benchmark for
+✓ Non-Collaborative User Simulators for Tool Agents
+✓ InnovatorBench: Evaluating Agents’ Ability to Conduct Innova
+✓ BeyondBench: Contamination-Resistant Evaluation of Reasoning
+✓ Preference Leakage: A Contamination Problem in LLM-as-a-judg
+✓ Beyond Raw Detection Scores: Markov-Informed Calibration for
+⏳ 429 on Agentic Context Engineering: Evolving Contexts for — backing off 10s
+✓ Agentic Context Engineering: Evolving Contexts for Self-Impr
+✓ Tab-MIA: A Benchmark Dataset for Membership Inference Attack
+✓ DRIFT: Divergent Response in Filtered Transformations for Ro
+✓ Hey, That's My Model! Introducing Chain & Hash, An LLM Finge
+✓ Defending against Backdoor Attacks via Module Switching
+✓ HLD: Approximate Hierarchical Linguistic Distribution Modeli
+✓ Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Cent
+✓ RepIt: Steering Language Models with Concept-Specific Refusa
+✓ Alignment-Weighted DPO:  A principled reasoning approach to 
+✓ Dual-Scale World Memory for LLM Agents towards Hard-Explorat
+✓ Fair Decision Utility in Human-AI Collaboration: Interpretab
+✓ Unlocking the Power of Multi-Agent LLM for Reasoning: From L
+✓ Formal Mechanistic Interpretability: Automated Circuit Disco
+✓ AMemGym: Interactive Memory Benchmarking for Assistants in L
+✓ Beyond RLHF and NLHF: Population-Proportional Alignment unde
+✓ SafeDialBench: A Fine-Grained Safety Evaluation Benchmark fo
+✓ EditBench: Evaluating LLM Abilities to Perform Real-World In
+✓ Efficient Adversarial Attacks on High-dimensional Offline Ba
+✓ DeLeaker: Dynamic Inference-Time Reweighting For Semantic Le
+✓ VERINA: Benchmarking Verifiable Code Generation
+✓ Demystifying Deep Search: A Holistic Evaluation with Hint-fr
+✓ SocialJax: An Evaluation Suite for Multi-agent Reinforcement
+✓ Bounds of Chain-of-Thought Robustness: Reasoning Steps, Embe
+✓ D&R: Recovery-based AI-Generated Text Detection via a Single
+✓ DP-Fusion: Token-Level Differentially Private Inference for 
+✓ Sysformer: Safeguarding Frozen Large Language Models with Ad
+✓ AlphaSteer: Learning Refusal Steering with Principled Null-S
+✓ Negotiated Reasoning: On Provably Addressing Relative Over-G
+✓ Monitoring Decomposition Attacks with Lightweight Sequential
+✓ Alignment through Meta-Weighted Online Sampling: Bridging th
+✓ BARREL: Boundary-Aware Reasoning for Factual and Reliable LR
+✓ Capability-Based Scaling Trends for LLM-Based Red-Teaming
+✓ Dual-Space Smoothness for Robust and Balanced LLM Unlearning
+✓ Single-Loop Byzantine-Resilient Federated Bilevel Optimizati
+✓ Uni-DPO: A Unified Paradigm for Dynamic Preference Optimizat
+⏳ 429 on DrivingGen: A Comprehensive Benchmark for Generati — backing off 10s
+✓ DrivingGen: A Comprehensive Benchmark for Generative Video W
+⏳ 429 on GuidedBench: Measuring and Mitigating the Evaluati — backing off 10s
+✓ GuidedBench: Measuring and Mitigating the Evaluation Discrep
+✓ Discern Truth from Falsehood: Reducing Over-Refusal via Cont
+✓ StyliTruth : Unlocking Stylized yet Truthful LLM Generation 
+✓ Attention Smoothing Is All You Need For Unlearning
+✓ Understanding and Improving Continuous LLM Adversarial Train
+✓ Demystifying The Mechanisms Behind Emergent Exploration in G
+✓ PluriHarms: Benchmarking the Full Spectrum of Human Judgment
+✓ Toward Faithful Retrieval-Augmented Generation with Sparse A
+✓ Untraceable DeepFakes via Traceable Fingerprint Elimination
+✓ P$^2$-DPO: Grounding Hallucination in Perceptual Processing 
+✓ Video Unlearning via Low-Rank Refusal Vector
+✓ Don't Settle Too Early: Self-Reflective Remasking for Diffus
+✓ Look Carefully: Adaptive Visual Reinforcements in Multimodal
+✓ Semantic Uncertainty Quantification of Hallucinations in LLM
+✓ Verification of the Implicit World Model in a Generative Mod
+✓ Eliciting Harmful Capabilities by Fine-Tuning on Safeguarded
+✓ EmotionHallucer: Evaluating Emotion Hallucinations in Multim
+✓ On Robustness of Vision-Language-Action Model against Multi-
+✓ FaLW: A Forgetting-aware Loss Reweighting for Long-tailed Un
+✓ ToolACE-MT: Non-Autoregressive Generation for Agentic Multi-
+✓ SABRE-FL: Selective and Accurate Backdoor Rejection for Fede
+✓ When Silence Is Golden: Can LLMs Learn to Abstain in Tempora
+✓ Enhancing Trustworthiness of Fine-Tuned LLMs via Regularized
+✓ Semantic Visual Anomaly Detection and Reasoning in AI-Genera
+✓ On Entropy Control in LLM-RL Algorithms
+✓ ResT: Reshaping Token-Level Policy Gradients for Tool-Use La
+✓ HARP: Hallucination Detection via Reasoning Subspace Project
+✓ Contractive Diffusion Policies
+✓ Harnessing Hyperbolic Geometry for Harmful Prompt Detection 
+✓ Expanding the Capability Frontier of LLM Agents with ZPD-Gui
+✓ Invisible Safety Threat: Malicious Finetuning for LLM via St
+✓ Escaping Low-Rank Traps: Interpretable Visual Concept Learni
+⏳ 429 on Token-level Data Selection for Safe LLM Fine-tunin — backing off 10s
+⏳ 429 on Token-level Data Selection for Safe LLM Fine-tunin — backing off 30s
+✓ Token-level Data Selection for Safe LLM Fine-tuning
+✓ SysMoBench: Evaluating AI on Formally Specifying Complex Rea
+✓ Off-Policy Safe Reinforcement Learning with Cost-Constrained
+✓ ShieldedCode: Learning Robust Representations for Virtual Ma
+✓ MME-Unify: A Comprehensive Benchmark for Unified Multimodal 
+✓ Regulating Internal Alignment Flows for Robust Learning Unde
+✓ Optimal Transport-Induced Samples against Out-of-Distributio
+✓ RL's Razor: Why Online Reinforcement Learning Forgets Less
+✓ Aegis: Automated Error Generation and Attribution for Multi-
+✓ Enhancing Hallucination Detection through Noise Injection
+✓ Improving Black-Box Generative Attacks via Generator Semanti
+✓ KnowGuard: Knowledge-Driven Abstention for Multi-Round Clini
+✓ Inverse Reinforcement Learning with Dynamic Reward Scaling f
+✓ Goal-Aware Identification and Rectification of Misinformatio
+✓ RAP: 3D Rasterization Augmented End-to-End Planning
+✓ Adversarial Attacks Already Tell the Answer: Directional Bia
+✓ Time-To-Inconsistency: A Survival Analysis of Large Language
+✓ GUI-Shift: Enhancing VLM-Based GUI Agents through Self-super
+✓ SYNC: Measuring and Advancing Synthesizability in Structure-
+✓ Beyond In-Domain Detection: SpikeScore for Cross-Domain Hall
+✓ Rethinking Benign Relearning: Syntax as the Hidden Driver of
+✓ VEAttack: Downstream-agnostic Vision Encoder Attack against 
+✓ Closing the Safety Gap: Surgical Concept Erasure in Visual A
+✓ LLM Unlearning with LLM Beliefs
+✓ Spurious Correlation-Aware Embedding Regularization for Wors
+✓ SAIL: Self-Amplified Iterative Learning for Diffusion Model 
+✓ Robust LLM Unlearning via Post Judgment and Multi-round Thin
+
+Done! Downloaded: 156, Skipped: 438, Failed: 1

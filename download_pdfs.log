@@ -1,0 +1,598 @@
+Downloading PDFs for 595 AI safety papers...
+✓ Decomposing LLM Computation with Jets
+✓ Masked Skill Token Training for Hierarchical Off-Dynamics Tr
+✓ Spilling the Beans: Teaching LLMs to Self-Report Their Hidde
+✓ THEMIS: Towards Holistic Evaluation of MLLMs for Scientific 
+✓ Not Search, But Scan: Benchmarking MLLMs on Scan-Oriented Ac
+✓ JailNewsBench: Multi-Lingual and Regional Benchmark for Fake
+✓ When Language Models Lose Their Mind: The Consequences of Br
+✓ Benchmarking Stochastic Approximation Algorithms for Fairnes
+✗ Failed (429): Adaptive Methods Are Preferable in High Privacy Settings: An
+✓ Copy-Paste to Mitigate Large Language Model Hallucinations
+✗ Failed (429): Aria: an Agent for Retrieval and Iterative Auto-Formalizatio
+✗ Failed (429): Enough is as good as a feast: A Comprehensive Analysis of Ho
+✓ Information-Theoretic Membership Inference for Granular Quan
+✓ RLVER: Reinforcement Learning with Verifiable Emotion Reward
+✓ HardcoreLogic: Challenging Large Reasoning Models with Long-
+✓ Micro-Macro Retrieval: Reducing Long-Form Hallucination in L
+✓ The Price of Robustness:  Stable Classifiers Need Overparame
+✗ Failed (429): Is On-Policy Data always the Best Choice for Direct Preferen
+✓ Tackling Heavy-Tailed Q-Value Bias in Offline-to-Online Rein
+✓ Grounding or Guessing? Visual Signals for Detecting Hallucin
+✓ Universal Value-Function Uncertainties
+✓ Exploring Interpretability for Visual Prompt Tuning with Cro
+✓ SafeFlowMatcher: Safe and Fast Planning using Flow Matching 
+✓ ToolTree: Efficient LLM Tool Planning via Dual-Feedback Mont
+✓ SpareTrain: Fault-Tolerant LLM Training via Low-Cost Dual Mo
+✓ PALC: Preference Alignment via Logit Calibration
+✓ FETAL-GAUGE: A BENCHMARK FOR ASSESSING VISION-LANGUAGE MODEL
+✓ AetherCode: Evaluating LLMs’ Ability to Win In Premier Progr
+✗ Failed (429): SecP-Tuning: Efficient Privacy-Preserving Prompt Tuning for 
+✗ Failed (429): Be Careful When Fine-tuning On Open-Source LLMs: Your Fine-t
+✓ Annotation-Efficient Honesty Alignment via Confidence Elicit
+✗ Failed (429): DevOps-Gym: Benchmarking AI Agents in Software DevOps Cycle
+✗ Failed (429): NDAD: Negative-Direction Aware Decoding for Large Language M
+✓ CounselBench: A Large-Scale Expert Evaluation and Adversaria
+✗ Failed (429): Align to Misalign: Automatic LLM Jailbreak with Meta-Optimiz
+✓ Negative Pre-activations Differentiate Syntax
+✓ AstaBench: Rigorous Benchmarking of AI Agents with a Scienti
+✓ INO-SGD: Addressing Utility Imbalance under Individualized D
+✗ Failed (429): Sparse CLIP: Co-Optimizing Interpretability and Performance 
+✓ SoSBench: Benchmarking Safety Alignment on Six Scientific Do
+✓ Hallucination-aware Intermediate Representation Edit in Larg
+✓ Detecting Temporal Misalignment Attacks in Multimodal Fusion
+✓ Addressing divergent representations from causal interventio
+✓ Critical Confabulation: Can LLMs Hallucinate for Social Good
+✓ Any-Depth Alignment: Unlocking Innate Safety Alignment of LL
+✓ SHAPO: Sharpness-Aware Policy Optimization for Safe Explorat
+✓ Evolution and compression in LLMs: on the emergence of human
+✓ How Dark Patterns Manipulate Web Agents
+✓ Operationalizing Data Minimization for Privacy-Preserving LL
+✓ Achieving Olympia-Level Geometry Large Language Model Agent 
+✗ Failed (429): Learning to Reason for Hallucination Span Detection
+✓ Auditing Black-Box LLM APIs with a Rank-Based Uniformity Tes
+✗ Failed (429): RedTeamCUA: Realistic Adversarial Testing of Computer-Use Ag
+✗ Failed (429): VLSU: Mapping the Limits of Joint Multimodal Understanding f
+✗ Failed (429): Strategic Obfuscation of Deceptive Reasoning in Language Mod
+✓ CIMemories: A Compositional Benchmark For Contextual Integri
+✗ Failed (429): Are Deep Speech Denoising Models Robust to Adversarial Noise
+✓ Offline Preference-Based Value Optimization
+✓ Emergent Dexterity Via Diverse Resets and Large-Scale Reinfo
+✗ Failed (429): TIMESLIVER : SYMBOLIC-LINEAR DECOMPOSITION FOR EXPLAINABLE T
+✓ FAME: Formal Abstract Minimal Explanation for Neural Network
+✓ Adversarial Déjà Vu: Jailbreak Dictionary Learning for Stron
+✓ Every Language Model Has a Forgery-Resistant Signature
+✓ WARP: Weight Teleportation for Attack-Resilient Unlearning P
+✓ Self-Improving Skill Learning for Robust Skill-based Meta-Re
+✓ Dyna-Mind: Learning to Simulate from Experience for Better A
+✓ Cognitive models can reveal interpretable value trade-offs i
+✓ ReasoningBank: Scaling Agent Self-Evolving with Reasoning Me
+✓ LitmusValues: Will AI Tell Lies to Save Sick Children? Litmu
+✓ PropensityBench: Evaluating Latent Safety Risks in Large Lan
+✓ Reward Models Inherit Value Biases from Pretraining
+✗ Failed (429): ResearchRubrics: A Benchmark of Prompts and Rubrics For Eval
+✗ Failed (429): Don't Shift the Trigger: Robust Gradient Ascent for Backdoor
+✗ Failed (429): OpenEstimate: Evaluating LLMs on Reasoning Under Uncertainty
+✗ Failed (429): Antislop: A Comprehensive Framework for Identifying and Elim
+✓ Jailbreaking the Matrix: Nullspace Steering for Controlled M
+✓ Hessian-Enhanced Token Attribution (HETA): Interpreting Auto
+✓ The Tutor-Pupil Augmentation: Enhancing Learning and Interpr
+✓ OpenAgentSafety: A Comprehensive Framework For Evaluating Re
+✓ EigenBench: A Comparative Behavioral Measure of Value Alignm
+✓ FHE-Coder: Benchmarking Secure Agentic Code Generation for F
+✓ Inpainting-Guided Policy Optimization for Diffusion Large La
+✗ Failed (429): Cancer-Myth: Evaluating Large Language Models on Patient Que
+✗ Failed (429): Remotely Detectable Robot Policy Watermarking
+✗ Failed (429): Causally Robust Reward Learning from Reason-Augmented Prefer
+✗ Failed (429): What's the plan? Metrics for implicit planning in LLMs and t
+✓ EigenScore: OOD Detection using Posterior Covariance in Diff
+✓ ProfBench: Multi-Domain Rubrics requiring Professional Knowl
+✓ Searching for Privacy Risks in LLM Agents via Simulation
+✓ Sharpness-Aware Minimization in Logit Space Efficiently Enha
+✓ Bilinear representation mitigates reversal curse and enables
+✓ COLD-Steer: Steering Large Language Models via In-Context On
+✓ EnsembleSHAP: Faithful and Certifiably Robust Attribution fo
+✓ Incentive-Aligned Multi-Source LLM Summaries
+✓ Truthful or Fabricated? Using Causal Attribution to Mitigate
+✓ RedCodeAgent: Automatic Red-teaming Agent against Diverse Co
+✓ Test-Time Alignment for Large Language Models via Textual Mo
+✓ Prediction with Expert Advice under Local Differential Priva
+✗ Failed (429): Persona Features Control Emergent Misalignment
+✓ VeriTrail: Closed-Domain Hallucination Detection with Tracea
+✗ Failed (429): Feature compression is the root cause of adversarial fragili
+✓ Is Your Paper Being Reviewed by an LLM? Benchmarking AI Text
+✗ Failed (429): MCPMark: A Benchmark for Stress-Testing Realistic and Compre
+✗ Failed (429): Membership Inference Attacks Against Fine-tuned Diffusion La
+✓ Spectrum Tuning: Post-Training for Distributional Coverage a
+✗ Failed (429): Adaptive Conformal Anomaly Detection with Time Series Founda
+✗ Failed (429): Identifying Robust Neural Pathways: Few-Shot Adversarial Mas
+✗ Failed (429): CERTIFIED VS. EMPIRICAL ADVERSARIAL ROBUSTNESS VIA HYBRID CO
+✓ Self-Destructive Language Models
+✗ Failed (429): A Benchmark for Deep Information Synthesis
+✗ Failed (429): Byzantine-Robust Federated Learning with Learnable Aggregati
+✗ Failed (429): Bayesian Robust Cooperative Multi-Agent Reinforcement Learni
+✓ HWC-Loco: A Hierarchical Whole-Body Control Approach to Robu
+✓ TrustGen: A Platform of Dynamic Benchmarking on the Trustwor
+✓ Fine-Grained Iterative Adversarial Attacks with Limited Comp
+✓ Low-Pass Filtering Improves Behavioral Alignment of Vision M
+✓ A2ASecBench: A Protocol-Aware Security Benchmark for Agent-t
+✓ LINGOLY-TOO: Disentangling Reasoning from Knowledge with Tem
+✓ Erase or Hide? Suppressing Spurious Unlearning Neurons for R
+✓ Fewer Weights, More Problems: A Practical Attack on LLM Prun
+✓ How Catastrophic is Your LLM? Certifying Risks in Conversati
+✗ Failed (429): Provably Explaining Neural Additive Models
+✓ Watch your steps: Dormant Adversarial Behaviors that Activat
+✓ KRAMABENCH: A Benchmark for AI Systems on Data-to-Insight Pi
+✓ LLMs are Greedy Agents: Effects of RL Fine-tuning on Decisio
+✓ DeepRAG: Thinking to Retrieve Step by Step for Large Languag
+✗ Failed (429): Dynamic Multimodal Activation Steering for Hallucination Mit
+✗ Failed (429): WRING Out The Bias: A Rotation-Based Alternative To Projecti
+✓ LRIM: a Physics-Based Benchmark for Provably Evaluating Long
+✓ Benchmarking Overton Pluralism in LLMs
+✗ Failed (429): OptimalThinkingBench: Evaluating Over and Underthinking in L
+✗ Failed (429): From Reproduction to Replication: Evaluating Research Agents
+✓ Neural Message-Passing on Attention Graphs for Hallucination
+✗ Failed (429): Efficient and Sharp Off-Policy Learning under Unobserved Con
+✓ Breaking Agent Backbones: Evaluating the Security of Backbon
+✗ Failed (429): VPI-Bench: Visual Prompt Injection Attacks for Computer-Use 
+✓ Scaling Agent Learning via Experience Synthesis
+✗ Failed (429): Noisy but Valid: Robust Statistical Evaluation of LLMs with 
+✓ Stop Wasting Your Tokens: Towards Efficient Runtime Multi-Ag
+✓ ATEX-CF: Attack-Informed Counterfactual Explanations for Gra
+✓ Tracking Equivalent Mechanistic Interpretations Across Neura
+✓ Conformal Robustness Control: A New Strategy for Robust Deci
+✓ Dyslexify: A Mechanistic Defense Against Typographic Attacks
+✓ Mitigating Spurious Correlation via Distributionally Robust 
+✓ ATGen: Adversarial Reinforcement Learning for Test Case Gene
+✓ MSCR: Exploring the Vulnerability of LLMs’ Mathematical Reas
+✓ APC-RL: Exceeding data-driven behavior priors with adaptive 
+✓ Optimizing Agent Planning for Security and Autonomy
+✓ Experience-based Knowledge Correction for Robust Planning in
+✓ Test-Time Poisoned Sample Detection by Exploiting Shallow Ma
+✗ Failed (429): AdPO: Enhancing the Adversarial Robustness of Large Vision-L
+✓ Sampling-aware Adversarial Attacks Against Large Language Mo
+✓ Benchmarking Large Vision-Language Models on Fine-Grained Im
+✗ Failed (429): RobustSpring: Benchmarking Robustness to Image Corruptions f
+✓ Silent Leaks: Implicit Knowledge Extraction Attack on RAG Sy
+✗ Failed (429): Knowledge Distillation as Decontamination? Revisiting the “D
+✓ CodeGenGuard: A Watermark for Code Generation Models
+✗ Failed (429): Enhanced Generative Model Evaluation with Clipped Density an
+✗ Failed (429): DeepResearch Bench: A Comprehensive Benchmark for Deep Resea
+✗ Failed (429): Strict Subgoal Execution: Reliable Long-Horizon Planning in 
+✗ Failed (429): Tracing and Reversing Edits in LLMs
+✓ Retaining Suboptimal Actions to Follow Shifting Optima in Mu
+✓ DualEdit: Mitigating Safety Fallback in LLM Backdoor Editing
+✓ PACEbench: A Framework for Evaluating Practical AI Cyber-Exp
+✓ Robust Adversarial Attacks Against Unknown Disturbance via I
+✓ A Stitch in Time Saves Nine: Proactive Self-Refinement for L
+✓ Concept-based Adversarial Attack: a Probabilistic Perspectiv
+✓ Pisces: Cryptography-based Private Retrieval-Augmented Gener
+✓ Spinning Straw into Gold: Relabeling LLM Agent Trajectories 
+✓ Opponent Shaping in LLM Agents
+✓ RedacBench: Can AI Erase Your Secrets?
+✓ Robust Federated Inference
+✗ Failed (429): The Shape of Adversarial Influence: Characterizing LLM Laten
+✓ Beyond Classification Accuracy:  Neural-MedBench and the Nee
+✓ Sculptor: Empowering LLMs with Cognitive Agency via Active C
+✗ Failed (429): Truthfulness Despite Weak Supervision: Evaluating and Traini
+✗ Failed (429): NatADiff: Adversarial Boundary Guidance for Natural Adversar
+✗ Failed (429): ASGuard: Activation-Scaling Guard to Mitigate Targeted Jailb
+✗ Failed (429): Robust Deep Reinforcement Learning against Adversarial Behav
+✓ SpaCE-Eval: A Benchmark for Real-World Multi-Modal Reasoning
+✗ Failed (429): Kimi-Dev: Agentless Training as Skill Prior for SWE-agents
+✗ Failed (429): Gaia2: Benchmarking LLM Agents on Dynamic and  Asynchronous 
+✗ Failed (429): FREAK: A Fine-grained Hallucination Evaluation Benchmark for
+✓ CoFact: Conformal Factuality Guarantees for Language Models 
+✗ Failed (429): Non-Collaborative User Simulators for Tool Agents
+✓ ExpGuard: LLM Content Moderation in Specialized Domains
+✓ Synthetic History: Evaluating Visual Representations of the 
+✓ ASIDE: Architectural Separation of Instructions and Data in 
+✓ A Guardrail for Safety Preservation: When Safety-Sensitive S
+✓ Robust Fine-Tuning from Non-Robust Pretrained Models: Mitiga
+✓ RedSage: A Cybersecurity Generalist LLM
+✓ Co-occurring Associated REtained concepts in Diffusion Unlea
+✓ Adaptive Augmentation-Aware Latent Learning for Robust LiDAR
+✓ PoseX: AI Defeats Physics-based Methods on Protein Ligand Cr
+✓ Harnessing Temporal Databases for Systematic Evaluation of F
+✓ Imitating the Truth: Attention-aware Truth-Guided Enhancemen
+✓ VisionLaw: Inferring Interpretable Intrinsic Dynamics from V
+✗ Failed (429): InnovatorBench: Evaluating Agents’ Ability to Conduct Innova
+✗ Failed (429): BeyondBench: Contamination-Resistant Evaluation of Reasoning
+✗ Failed (429): Preference Leakage: A Contamination Problem in LLM-as-a-judg
+✗ Failed (429): Beyond Raw Detection Scores: Markov-Informed Calibration for
+✗ Failed (429): Agentic Context Engineering: Evolving Contexts for Self-Impr
+✗ Failed (429): Tab-MIA: A Benchmark Dataset for Membership Inference Attack
+✓ Deep Latent Variable Model based Vertical Federated Learning
+✓ Trade in Minutes! Rationality-Driven Agentic System for Quan
+✓ Why Low-Precision Transformer Training Fails: An Analysis on
+✗ Failed (429): DRIFT: Divergent Response in Filtered Transformations for Ro
+✓ Search Self-Play: Pushing the Frontier of Agent Capability w
+✓ GraphShield: Graph-Theoretic Modeling of Network-Level Dynam
+✓ FlowRL: Matching Reward Distributions for LLM Reasoning
+✓ Mitigating Privacy Risk via Forget Set-Free Unlearning
+✓ PRISON: Unmasking the Criminal Potential of Large Language M
+✓ CAGE: A Framework for Culturally Adaptive Red-Teaming Benchm
+✓ How to Cure Newton for Unlearning Neural Networks? An Empiri
+✓ Towards Understanding the Nature of Attention with Low-Rank 
+✓ ChatInject: Abusing Chat Templates for Prompt Injection in L
+✓ Counterfactual Explanations on Robust Perceptual Geodesics
+✓ Understanding Sensitivity of Differential Attention through 
+✓ Certified Evaluation of Model-Level Explanations for Graph N
+✓ ReVeal: Self-Evolving Code Agents via Reliable Self-Verifica
+✗ Failed (429): Hey, That's My Model! Introducing Chain & Hash, An LLM Finge
+✓ From Abstract to Contextual: What LLMs Still Cannot Do in Ma
+✓ Summaries as Centroids for Interpretable and Scalable Text C
+✗ Failed (429): Defending against Backdoor Attacks via Module Switching
+✓ Breaking and Fixing Defenses Against Control Flow Hijacking 
+✗ Failed (429): HLD: Approximate Hierarchical Linguistic Distribution Modeli
+✓ Hierarchy-of-Groups Policy Optimization for Long-Horizon Age
+✓ TokUR: Token-Level Uncertainty Estimation for Large Language
+✓ ImpossibleBench: Measuring LLMs' Propensity of Exploiting Te
+✓ GeoGramBench: Benchmarking the Geometric Program Reasoning i
+✓ TrojanTO: Action-Level Backdoor Attacks Against Trajectory O
+✓ Efficient Agent Training for Computer Use
+✓ Do Vision-Language Models Respect Contextual Integrity in Lo
+✓ Learning to Lie: Adversarial Attacks on Human-AI Teams and L
+✓ Secure Inference for Diffusion Models via Unconditional Scor
+✓ DUET: Distilled LLM Unlearning from an Efficiently Contextua
+✓ Landscape of Thoughts: Visualizing the Reasoning Process of 
+✓ VoxPrivacy: A Benchmark for Evaluating Interactional Privacy
+✓ SocialHarmBench: Revealing LLM Vulnerabilities  to Socially 
+✓ OCR-Reasoning Benchmark: Unveiling the True Capabilities of 
+✓ From Evaluation to Defense: Advancing Safety in Video Large 
+✓ Robust Spiking Neural Networks Against Adversarial Attacks
+✗ Failed (429): Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Cent
+✗ Failed (429): RepIt: Steering Language Models with Concept-Specific Refusa
+✗ Failed (429): Alignment-Weighted DPO:  A principled reasoning approach to 
+✗ Failed (429): Dual-Scale World Memory for LLM Agents towards Hard-Explorat
+✓ Code2Bench: Scaling Source and Rigor for Dynamic Benchmark C
+✓ Localized Concept Erasure in Text-to-Image Diffusion Models 
+✓ Towards Privacy-Guaranteed Label Unlearning in Vertical Fede
+✓ HalluGuard: Demystifying Data-Driven and Reasoning-Driven Ha
+✓ Spherical Watermark: Encryption-Free, Lossless Watermarking 
+✗ Error: Fair Decision Utility in Human-AI Collaboration: Interpretab — HTTPSConnectionPool(host='openreview.net', port=443): Read timed out.
+✓ SMOTE and Mirrors: Exposing Privacy Leakage from Synthetic M
+✓ Evaluating and Improving Cultural Awareness of Reward Models
+✗ Failed (429): Unlocking the Power of Multi-Agent LLM for Reasoning: From L
+✓ Multi-LLM Adaptive Conformal Inference for Reliable LLM Resp
+✓ Get RICH or Die Scaling: Profitably Trading Inference Comput
+✓ Unlearning Isn't Invisible: Detecting Unlearning Traces in L
+✓ Rethinking Layer Relevance in Large Language Models Beyond C
+✓ BIRD: Behavior Induction via Representation-structure Distil
+✓ Self-Jailbreaking: Language Models Can Reason Themselves Out
+✓ CyberGym: Evaluating AI Agents' Real-World Cybersecurity Cap
+✓ LLMS ON TRIAL: Evaluating Judicial Fairness For Large Langua
+✗ Failed (429): Formal Mechanistic Interpretability: Automated Circuit Disco
+✗ Failed (429): AMemGym: Interactive Memory Benchmarking for Assistants in L
+✗ Failed (429): Beyond RLHF and NLHF: Population-Proportional Alignment unde
+✓ ViMo: A Generative Visual GUI World Model for App Agents
+✓ Differentially Private Two-Stage Gradient Descent for Instru
+✓ When Style Breaks Safety: Defending LLMs Against Superficial
+✗ Failed (429): SafeDialBench: A Fine-Grained Safety Evaluation Benchmark fo
+✗ Failed (429): EditBench: Evaluating LLM Abilities to Perform Real-World In
+✗ Failed (429): Efficient Adversarial Attacks on High-dimensional Offline Ba
+✗ Failed (429): DeLeaker: Dynamic Inference-Time Reweighting For Semantic Le
+✓ Where Did It Go Wrong? Attributing Undesirable LLM Behaviors
+✗ Failed (429): VERINA: Benchmarking Verifiable Code Generation
+✓ Hot PATE: Private Aggregation of Distributions  for Diverse 
+✗ Failed (429): Demystifying Deep Search: A Holistic Evaluation with Hint-fr
+✓ DR-SAC: Distributionally Robust Soft Actor-Critic for Reinfo
+✓ Misaligned Roles, Misplaced Images: Structural Input Perturb
+✓ ST-WebAgentBench: A Benchmark for Evaluating Safety and Trus
+✓ SEED-SET: Scalable Evolving Experimental Design for System-l
+✓ Tell me Habibi, is it Real or Fake?
+✓ BEAT: Visual Backdoor Attacks on VLM-based Embodied Agents v
+✓ Early Signs of Steganographic Capabilities in Frontier LLMs
+✓ No, of Course I Can! Deeper Fine-Tuning Attacks That Bypass 
+✓ Expressiveness of Multi-Neuron Convex Relaxations in Neural 
+✓ Robust Amortized Bayesian Inference with Self-Consistency Lo
+✓ NetArena: Dynamic Benchmarks for AI Agents in Network Automa
+✓ Out of the Shadows: Exploring a Latent Space for Neural Netw
+✓ Scalable Energy-Based Models via Adversarial Training: Unify
+✓ Safe Exploration via Policy Priors
+✓ Is it Thinking or Cheating?  Detecting Implicit Reward Hacki
+✓ Robust Adversarial Quantification via Conflict-Aware Evident
+✓ RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visu
+✓ ChemEval: A Multi-level and Fine-grained Chemical Capability
+✗ Failed (429): SocialJax: An Evaluation Suite for Multi-agent Reinforcement
+✓ CogniLoad: A Synthetic Natural Language Reasoning Benchmark 
+✓ Safe Continuous-time Multi-Agent Reinforcement Learning via 
+✗ Failed (429): Bounds of Chain-of-Thought Robustness: Reasoning Steps, Embe
+✓ CoDA: Agentic Systems for Collaborative Data Visualization
+✓ Benchmarking Bias Mitigation Toward Fairness Without Harm fr
+✓ TRACEDET: HALLUCINATION DETECTION FROM THE DECODING TRACE OF
+✓ SafeMoE: Safe Fine-Tuning for MoE LLMs by Aligning Harmful I
+✓ DiffVax: Optimization-Free Image Immunization Against Diffus
+✓ Hubble: a Model Suite to Advance the Study of LLM Memorizati
+✓ Federated Learning of Quantile Inference under Local Differe
+✓ Beyond Membership: Limitations of Add/Remove Adjacency in Di
+✓ WebFactory: Automated Compression of Foundational Language I
+✓ Unmasking Backdoors: An Explainable Defense via Gradient-Att
+✓ VisuLogic: A Benchmark for Evaluating Visual Reasoning in Mu
+✓ Minimax Optimal Adversarial Reinforcement Learning
+✓ Verifying Chain-of-Thought Reasoning via Its Computational G
+✗ Failed (429): D&R: Recovery-based AI-Generated Text Detection via a Single
+✓ DynaGuard: A Dynamic Guardian Model With User-Defined Polici
+✓ Traceable Black-Box Watermarks For Federated Learning
+✓ When AI Agents Collude Online: Financial Fraud Risks by Coll
+✗ Failed (429): DP-Fusion: Token-Level Differentially Private Inference for 
+✓ Addressing Pitfalls in the Evaluation of Uncertainty Estimat
+✗ Failed (429): Sysformer: Safeguarding Frozen Large Language Models with Ad
+✗ Failed (429): AlphaSteer: Learning Refusal Steering with Principled Null-S
+✗ Failed (429): Negotiated Reasoning: On Provably Addressing Relative Over-G
+✓ Protection against Source Inference Attacks in Federated Lea
+✓ Designing Affine-Invariant Neural Networks for Photometric C
+✗ Failed (429): Monitoring Decomposition Attacks with Lightweight Sequential
+✗ Failed (429): Alignment through Meta-Weighted Online Sampling: Bridging th
+✓ Dual-Robust Cross-Domain Offline Reinforcement Learning Agai
+✗ Failed (429): BARREL: Boundary-Aware Reasoning for Factual and Reliable LR
+✓ Toward Efficient Exploration by Large Language Model Agents
+✓ ARMs: Adaptive Red-Teaming Agent against Multimodal Models w
+✓ Plan-R1: Safe and Feasible Trajectory Planning as Language M
+✓ Why Adversarially Train Diffusion Models?
+✓ AutoTool: Automatic Scaling of Tool-Use Capabilities in RL v
+✓ MCP-SafetyBench: A Benchmark for Safety Evaluation of Large 
+✓ LingoLoop Attack: Trapping MLLMs via Linguistic Context and 
+✓ Ghost in the Cloud: Your Geo-Distributed Large Language Mode
+✗ Failed (429): Capability-Based Scaling Trends for LLM-Based Red-Teaming
+✓ DriveAgent-R1: Advancing VLM-based Autonomous Driving with A
+✓ Stop Tracking Me! Proactive Defense Against Attribute Infere
+✓ Policy Contrastive Decoding for Robotic Foundation Models
+✗ Failed (429): Dual-Space Smoothness for Robust and Balanced LLM Unlearning
+✗ Failed (429): Single-Loop Byzantine-Resilient Federated Bilevel Optimizati
+✗ Failed (429): Uni-DPO: A Unified Paradigm for Dynamic Preference Optimizat
+✓ On the Tension Between Optimality and Adversarial Robustness
+✓ Robust Adaptive Multi-Step Predictive Shielding
+✓ Near Optimal Robust Federated Learning Against Data Poisonin
+✓ Exploratory Memory-Augmented LLM Agent via Hybrid On- and Of
+✓ Obfuscated Activations Bypass LLM Latent-Space Defenses
+✓ Trust but Verify: Adaptive Conditioning for Reference-Based 
+✓ P-GenRM: Personalized Generative Reward Model with Test-time
+✓ Steering Diffusion Models Towards Credible Content Recommend
+✓ Erase to Improve: Erasable Reinforcement Learning for Search
+✓ TriQDef: Disrupting Semantic and Gradient Alignment to Preve
+✓ CatalystBench: A Comprehensive Multi-Task Benchmark for Adva
+✓ INTIMA: A Benchmark for Human-AI Companionship Behavior
+✓ Self-Consistency Improves the Trustworthiness of Self-Interp
+✓ Disrupting Hierarchical Reasoning: Adversarial Protection fo
+✓ Zero-Sacrifice Persistent-Robustness Adversarial Defense for
+✓ InnoGym: Benchmarking the Innovation Potential of AI Agents
+✓ Hallucination Reduction with CASAL:  Contrastive Activation 
+✓ Scaling Agents via Continual Pre-training
+✓ Toward Safer Diffusion Language Models: Discovery and Mitiga
+✓ CubeBench: Diagnosing Interactive, Long-Horizon Physical Int
+✓ AgentFold: Long-Horizon Web Agents with Proactive Context Fo
+✓ Discrete Latent Features Ablate Adversarial Attack: A Robust
+✗ Failed (429): DrivingGen: A Comprehensive Benchmark for Generative Video W
+✗ Failed (429): GuidedBench: Measuring and Mitigating the Evaluation Discrep
+✓ MIDAS: Multi-Image Dispersion and Semantic Reconstruction fo
+✓ Completing Missing Annotation: Multi-Agent Debate for Accura
+✗ Failed (429): Discern Truth from Falsehood: Reducing Over-Refusal via Cont
+✓ On the Bayes Inconsistency of Disagreement Discrepancy Surro
+✓ Self-Refining Vision Language Model for Robotic Failure Dete
+✓ All Patches Matter, More Patches Better: Enhance AI-Generate
+✓ SIGMark: Scalable In-Generation Watermark with Blind Extract
+✓ Are LLMs Really Not Knowledgeable? Mining the Submerged Know
+✓ Just Do It!? Computer-Use Agents Exhibit Blind Goal-Directed
+✓ Deep SPI: Safe Policy Improvement via World Models
+✓ ELEPHANT: Measuring and understanding social sycophancy in L
+✓ Learning a Game by Paying the Agents
+✓ Distributionally Robust Cooperative Multi-agent Reinforcemen
+✓ Fantastic Tractor-Dogs and How Not to Find Them With Open-Vo
+✓ MATH-Beyond: A Benchmark for RL to Expand Beyond the Base Mo
+✗ Failed (429): StyliTruth : Unlocking Stylized yet Truthful LLM Generation 
+✗ Failed (429): Attention Smoothing Is All You Need For Unlearning
+✗ Failed (429): Understanding and Improving Continuous LLM Adversarial Train
+✗ Failed (429): Demystifying The Mechanisms Behind Emergent Exploration in G
+✓ Building a Foundational Guardrail for General Agentic System
+✗ Failed (429): PluriHarms: Benchmarking the Full Spectrum of Human Judgment
+✓ Holistic Agent Leaderboard: The Missing Infrastructure for A
+✓ Multi-Condition Conformal Selection
+✗ Failed (429): Toward Faithful Retrieval-Augmented Generation with Sparse A
+✓ Multi-Agent Debate with Memory Masking
+✓ Token-Guard: Towards Token-Level Hallucination Control via S
+✓ From ``Sure" to ``Sorry": Detecting Jailbreak in Large Visio
+✓ Accessible, Realistic, and Fair Evaluation of Positive-Unlab
+✓ Log Probability Tracking of LLM APIs
+✓ Towards Self-Robust LLMs: Intrinsic Prompt Noise Resistance 
+✓ Beware Untrusted Simulators -- Reward-Free Backdoor Attacks 
+✓ Interpretable 3D Neural Object Volumes for Robust Conceptual
+✓ Fisher-Rao Sensitivity for Out-of-Distribution Detection in 
+✓ WideSearch: Benchmarking Agentic Broad Info-Seeking
+✓ Beyond Prompt-Induced Lies: Investigating LLM Deception on B
+✗ Failed (429): Untraceable DeepFakes via Traceable Fingerprint Elimination
+✗ Failed (429): P$^2$-DPO: Grounding Hallucination in Perceptual Processing 
+✓ Concept-Aware Privacy Mechanisms for Defending Embedding Inv
+✓ OrchestrationBench: LLM-Driven Agentic Planning and Tool Use
+✗ Failed (429): Video Unlearning via Low-Rank Refusal Vector
+✓ Towards a Certificate of Trust: Task-Aware OOD Detection for
+✓ High Accuracy, Less Talk (HALT): Reliable LLMs through Capab
+✗ Failed (429): Don't Settle Too Early: Self-Reflective Remasking for Diffus
+✓ HiddenEcho: Mitigating Noise Amplification in Differentially
+✗ Failed (429): Look Carefully: Adaptive Visual Reinforcements in Multimodal
+✓ ATLAS: Alibaba Dataset and Benchmark for Learning-Augmented 
+✓ Measuring and Mitigating Rapport Bias of Large Language Mode
+✓ GhostEI-Bench: Do Mobile Agent Resilience to Environmental I
+✓ BiasFreeBench: a Benchmark for Mitigating Bias in Large Lang
+✓ SeRI: Gradient-Free Sensitive Region Identification in Decis
+✓ World-In-World: World Models in a Closed-Loop World
+✓ Text2Grad: Reinforcement Learning from Natural Language Feed
+✓ Transferable and Stealthy Adversarial Attacks on Large Visio
+✓ ARMOR: Aligning Secure and Safe Large Language  Models via M
+✓ ProSafePrune: Projected Safety Pruning for Mitigating Over-R
+✓ Measuring Physical-World Privacy Awareness of Large Language
+✓ Reducing Belief Deviation in Reinforcement Learning for Acti
+✓ DRBench: A Realistic Benchmark for Enterprise Deep Research
+✓ Quagmires in SFT-RL Post-Training: When High SFT Scores Misl
+✗ Failed (429): Semantic Uncertainty Quantification of Hallucinations in LLM
+✓ Formalising Human-in-the-Loop: Computational Reductions, Fai
+✗ Failed (429): Verification of the Implicit World Model in a Generative Mod
+✗ Failed (429): Eliciting Harmful Capabilities by Fine-Tuning on Safeguarded
+✓ Beyond Linear Probes: Dynamic Safety Monitoring for Language
+✓ ManagerBench: Evaluating the Safety-Pragmatism Trade-off in 
+✓ Perturbation-Induced Linearization: Constructing Unlearnable
+✓ Spatial-DISE: A Unified Benchmark for Evaluating Spatial Rea
+✓ In-Context Watermarks for Large Language Models
+✓ Reliable Poisoned Sample Detection against Backdoor Attacks 
+✓ Detective SAM:  Adaptive AI-Image Forgery Localization
+✓ Learning for Highly Faithful Explainability
+✓ Reinforcement Unlearning via Group Relative Policy Optimizat
+✓ Dual Randomized Smoothing: Beyond Global Noise Variance
+✓ DiSRouter: Distributed Self-Routing for LLM Selections
+✓ SWINGARENA: Adversarial Programming Arena for Long-context G
+✓ Safety at One Shot: Patching Fine-Tuned LLMs with A Single I
+✓ Unified Privacy Guarantees for Decentralized Learning via Ma
+✓ SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn 
+✓ A2D: Any-Order, Any-Step Safety Alignment for Diffusion Lang
+✓ Jailbreaking on Text-to-Video Models via Scene Splitting Str
+✓ PostAlign: Multimodal Grounding as a Corrective Lens for MLL
+✓ Rethinking the Gold Standard: Why Discrete Curvature Fails t
+✓ Mitigating Hallucination in Vision-Language Model with Depth
+✓ Grounding Generative Planners in Verifiable Logic: A Hybrid 
+✓ Fine-Grained Privacy Extraction from Retrieval-Augmented Gen
+✓ Look Back to Reason Forward: Revisitable Memory for Long-Con
+✗ Failed (429): EmotionHallucer: Evaluating Emotion Hallucinations in Multim
+✗ Failed (429): On Robustness of Vision-Language-Action Model against Multi-
+✓ SDErasure: Concept-Specific Trajectory Shifting for Concept 
+✓ AFTER: Mitigating the Object Hallucination of LVLM via Adapt
+✗ Failed (429): FaLW: A Forgetting-aware Loss Reweighting for Long-tailed Un
+✗ Failed (429): ToolACE-MT: Non-Autoregressive Generation for Agentic Multi-
+✓ Image Can Bring Your Memory Back: A Novel Multi-Modal Guided
+✓ LH-DECEPTION: Simulating and Understanding LLM Deceptive Beh
+✓ $\alpha$-DPO: Robust Preference Alignment for Diffusion Mode
+✓ Token-Importance Guided Direct Preference Optimization
+✓ Generalizable End-to-End Tool-Use RL with Synthetic CodeGym
+✓ Learning From Dictionary: Enhancing Robustness of Machine-Ge
+✓ LongHorizonUI: A Unified Framework for Robust long-horizon T
+✓ Reliable Weak-to-Strong Monitoring of LLM Agents
+✓ Deep Ignorance: Filtering Pretraining Data Builds Tamper-Res
+✗ Failed (429): SABRE-FL: Selective and Accurate Backdoor Rejection for Fede
+✓ DeepTRACE: Auditing Deep Research AI Systems for Tracking Re
+✓ Credit-Budgeted ICPC-Style Coding: When Agents Must Pay for 
+✓ Privacy Beyond Pixels: Latent Anonymization for Privacy-Pres
+✗ Failed (429): When Silence Is Golden: Can LLMs Learn to Abstain in Tempora
+✓ Nasty Adversarial Training:  A Probability Sparsity Perspect
+✓ Memory-T1: Reinforcement Learning for Temporal Reasoning in 
+✓ GAVEL: Towards Rule-Based Safety through Activation Monitori
+✗ Failed (429): Enhancing Trustworthiness of Fine-Tuned LLMs via Regularized
+✗ Failed (429): Semantic Visual Anomaly Detection and Reasoning in AI-Genera
+✓ Characterizing and Mitigating Reasoning Drift in Large Langu
+✓ Patronus: Interpretable Diffusion Models with Prototypes
+✗ Failed (429): On Entropy Control in LLM-RL Algorithms
+✗ Failed (429): ResT: Reshaping Token-Level Policy Gradients for Tool-Use La
+✓ MedVR: Annotation-Free Medical Visual Reasoning via Agentic 
+✓ MCP Security Bench (MSB): Benchmarking Attacks Against Model
+✓ TaskCraft: Automated Generation of Agentic Tasks
+✓ Towards Personalized Deep Research: Benchmarks and Evaluatio
+✓ MOAI: Module-Optimizing Architecture for Non-Interactive Sec
+✓ NurValues: Real-World Nursing Values Evaluation for Large La
+✓ GHOST: Hallucination-Inducing Image Generation for Multimoda
+✓ VitaBench: Benchmarking LLM Agents with Versatile Interactiv
+✓ Seeing, Listening, Remembering, and Reasoning: A Multimodal 
+✓ AMLRIS: Alignment-aware Masked Learning for Referring Image 
+✗ Failed (429): HARP: Hallucination Detection via Reasoning Subspace Project
+✓ Rethinking LoRA for Privacy-Preserving Federated Learning in
+✗ Failed (429): Contractive Diffusion Policies
+✓ GTR-Bench: Evaluating Geo-Temporal Reasoning in Vision-Langu
+✓ Solving the Granularity Mismatch: Hierarchical Preference Le
+✗ Failed (429): Harnessing Hyperbolic Geometry for Harmful Prompt Detection 
+✓ LUMINA: Detecting Hallucinations in RAG System with Context–
+✗ Failed (429): Expanding the Capability Frontier of LLM Agents with ZPD-Gui
+✗ Failed (429): Invisible Safety Threat: Malicious Finetuning for LLM via St
+✗ Failed (429): Escaping Low-Rank Traps: Interpretable Visual Concept Learni
+✗ Failed (429): Token-level Data Selection for Safe LLM Fine-tuning
+✗ Failed (429): SysMoBench: Evaluating AI on Formally Specifying Complex Rea
+✗ Failed (429): Off-Policy Safe Reinforcement Learning with Cost-Constrained
+✗ Failed (429): ShieldedCode: Learning Robust Representations for Virtual Ma
+✗ Failed (429): MME-Unify: A Comprehensive Benchmark for Unified Multimodal 
+✗ Failed (429): Regulating Internal Alignment Flows for Robust Learning Unde
+✓ Visual Multi-Agent System: Mitigating Hallucination Snowball
+✓ SR-Scientist: Scientific Equation Discovery With Agentic AI
+✓ Strategic Dishonesty Can Undermine AI Safety Evaluations of 
+✓ Exposing and Defending the Achilles' Heel of Video Mixture-o
+✓ Distributional Machine Unlearning via Selective Data Removal
+✓ Towards Safe Reasoning in Large Reasoning Models via Correct
+✓ Robustness in Text-Attributed Graph Learning: Insights, Trad
+✓ Secret-Protected Evolution for Differentially Private Synthe
+✓ Through the Lens of Contrast: Self-Improving Visual Reasonin
+✓ SAFETY-GUIDED FLOW (SGF): A UNIFIED FRAMEWORK FOR NEGATIVE G
+✓ Doxing via the Lens: Revealing Location-related Privacy Leak
+✓ Estimating Worst-Case Frontier Risks of Open-Weight LLMs
+✓ Agentic Reinforced Policy Optimization
+✓ Mitigating the Safety Alignment Tax with Null-Space Constrai
+✓ Your Agent May Misevolve: Emergent Risks in Self-evolving LL
+✗ Failed (429): Optimal Transport-Induced Samples against Out-of-Distributio
+✓ Mechanistic Detection and Mitigation of Hallucination in Lar
+✗ Failed (429): RL's Razor: Why Online Reinforcement Learning Forgets Less
+✓ Hallucination Begins Where Saliency Drops
+✓ Distributionally Robust Optimization via Generative Ambiguit
+✓ CaTs and DAGs: Integrating Directed Acyclic Graphs with Tran
+✓ Overthinking Reduction with Decoupled Rewards and Curriculum
+✓ RoboMD: Uncovering Robot Vulnerabilities through Semantic Po
+✓ SHIELD: Suppressing Hallucinations In LVLM Encoders via Bias
+✓ OffTopicEval: When Large Language Models Enter the Wrong Cha
+✓ AdvChain: Adversarial Chain-of-Thought Tuning for Robust Saf
+✓ Robustify Spiking Neural Networks via Dominant Singular Defl
+✓ MemGen: Weaving Generative Latent Memory for Self-Evolving A
+✓ AgenTracer: Who Is Inducing Failure in the LLM Agentic Syste
+✗ Failed (429): Aegis: Automated Error Generation and Attribution for Multi-
+✗ Failed (429): Enhancing Hallucination Detection through Noise Injection
+✓ AutoDrive-R²: Incentivizing Reasoning and Self-Reflection Ca
+✗ Failed (429): Improving Black-Box Generative Attacks via Generator Semanti
+✗ Failed (429): KnowGuard: Knowledge-Driven Abstention for Multi-Round Clini
+✗ Failed (429): Inverse Reinforcement Learning with Dynamic Reward Scaling f
+✓ Bi-directional Bias Attribution: Debiasing Large Language Mo
+✗ Failed (429): Goal-Aware Identification and Rectification of Misinformatio
+✓ DiffuGuard: How Intrinsic Safety is Lost and Found in Diffus
+✗ Failed (429): RAP: 3D Rasterization Augmented End-to-End Planning
+✓ Mitigating Noise Shift in Denoising Generative Models with N
+✗ Failed (429): Adversarial Attacks Already Tell the Answer: Directional Bia
+✓ SinkTrack: Attention Sink based Context Anchoring for Large 
+✗ Failed (429): Time-To-Inconsistency: A Survival Analysis of Large Language
+✓ FakeXplain: AI-Generated Image Detection via Human-Aligned G
+✓ Curation Leaks: Membership Inference Attacks against Data Cu
+✓ Preserving Forgery Artifacts: AI-Generated Video Detection a
+✓ Explainable LLM Unlearning through Reasoning
+✓ Steerable Adversarial Scenario Generation through Test-Time 
+✓ DreamPhase: Offline Imagination and Uncertainty-Guided Plann
+✓ SHE-LoRA: Selective Homomorphic Encryption for Federated Tun
+✓ Trinity: An Evolved LLM Coordinator
+✓ Don't Just Fine-tune the Agent, Tune the Environment
+✓ Factuality Matters: When Image Generation and Editing Meet S
+✓ Training-Free Loosely Speculative Decoding: Accepting Semant
+✓ CoPRS: Learning Positional Prior from Chain-of-Thought for R
+✓ Seeing Through Deception: Uncovering Misleading Creator Inte
+✓ Benchmarking Empirical Privacy Protection for Adaptations of
+✓ FaithCoT-Bench: Benchmarking Instance-Level Faithfulness of 
+✓ RD-HRL: Generating Reliable Sub-Goals for Long-Horizon Spars
+✓ Tree Search for LLM Agent Reinforcement Learning
+✓ JALMBench: Benchmarking Jailbreak Vulnerabilities in Audio L
+✗ Failed (429): GUI-Shift: Enhancing VLM-Based GUI Agents through Self-super
+✗ Failed (429): SYNC: Measuring and Advancing Synthesizability in Structure-
+✗ Failed (429): Beyond In-Domain Detection: SpikeScore for Cross-Domain Hall
+✓ Certifying the Full YOLO Pipeline: A Probabilistic Verificat
+✓ Teach to Reason Safely: Policy-Guided Safety Tuning for MLRM
+✓ Pay Less Attention to Function Words for Free Robustness of 
+✓ LipNeXt: Scaling up Lipschitz-based Certified Robustness to 
+✓ Can Language Models Discover Scaling Laws?
+✓ Teaching VLMs to Admit Uncertainty in OCR from Lossy Visual 
+✓ The Devil behind the mask: An emergent safety vulnerability 
+✓ K²-Agent: Co-Evolving Know-What and Know-How for Hierarchica
+✓ AEGIS: Adversarial Target-Guided Retention-Data-Free Robust 
+✓ SPEED: Scalable, Precise, and Efficient Concept Erasure for 
+✓ Veritas: Generalizable Deepfake Detection via Pattern-Aware 
+✓ VerifyBench: Benchmarking Reference-based Reward Systems for
+✓ Learnability and Privacy Vulnerability are Entangled in a Fe
+✓ Safety Instincts: LLMs Learn to Trust Their Internal Compass
+✓ Time Is All It Takes: Spike-Retiming Attacks on Event-Driven
+✓ Purifying Generative LLMs from Backdoors  without Prior Know
+✗ Failed (429): Rethinking Benign Relearning: Syntax as the Hidden Driver of
+✗ Failed (429): VEAttack: Downstream-agnostic Vision Encoder Attack against 
+✗ Failed (429): Closing the Safety Gap: Surgical Concept Erasure in Visual A
+✗ Failed (429): LLM Unlearning with LLM Beliefs
+✗ Failed (429): Spurious Correlation-Aware Embedding Regularization for Wors
+✗ Failed (429): SAIL: Self-Amplified Iterative Learning for Diffusion Model 
+✗ Failed (429): Robust LLM Unlearning via Post Judgment and Multi-round Thin
+✓ Spilled Energy in Large Language Models
+
+Done! Downloaded: 438, Skipped: 0, Failed: 157
